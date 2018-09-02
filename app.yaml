@@ -1,0 +1,4 @@
+# [START app_yaml]
+runtime: nodejs8
+service: nodejs8-by-yarn
+# [END app_yaml]
